@@ -1,0 +1,27 @@
+D:\Projects\ProjectControl\ProjectControl\ProjectControl.Core\bin\Debug\netcoreapp3.1\ProjectControl.Core.deps.json
+D:\Projects\ProjectControl\ProjectControl\ProjectControl.Core\bin\Debug\netcoreapp3.1\ProjectControl.Core.dll
+D:\Projects\ProjectControl\ProjectControl\ProjectControl.Core\bin\Debug\netcoreapp3.1\ProjectControl.Core.pdb
+D:\Projects\ProjectControl\ProjectControl\ProjectControl.Core\obj\Debug\netcoreapp3.1\ProjectControl.Core.AssemblyInfoInputs.cache
+D:\Projects\ProjectControl\ProjectControl\ProjectControl.Core\obj\Debug\netcoreapp3.1\ProjectControl.Core.AssemblyInfo.cs
+D:\Projects\ProjectControl\ProjectControl\ProjectControl.Core\obj\Debug\netcoreapp3.1\ProjectControl.Core.csproj.CoreCompileInputs.cache
+D:\Projects\ProjectControl\ProjectControl\ProjectControl.Core\obj\Debug\netcoreapp3.1\ProjectControl.Core.dll
+D:\Projects\ProjectControl\ProjectControl\ProjectControl.Core\obj\Debug\netcoreapp3.1\ProjectControl.Core.pdb
+D:\Projects\ProjectControl\ProjectControl\ProjectControl.Core\obj\Debug\netcoreapp3.1\ProjectControl.Core.csprojAssemblyReference.cache
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl.Core\bin\Debug\netcoreapp3.1\ProjectControl.Core.deps.json
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl.Core\bin\Debug\netcoreapp3.1\ProjectControl.Core.dll
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl.Core\bin\Debug\netcoreapp3.1\ProjectControl.Core.pdb
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl.Core\obj\Debug\netcoreapp3.1\ProjectControl.Core.csprojAssemblyReference.cache
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl.Core\obj\Debug\netcoreapp3.1\ProjectControl.Core.AssemblyInfoInputs.cache
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl.Core\obj\Debug\netcoreapp3.1\ProjectControl.Core.AssemblyInfo.cs
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl.Core\obj\Debug\netcoreapp3.1\ProjectControl.Core.csproj.CoreCompileInputs.cache
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl.Core\obj\Debug\netcoreapp3.1\ProjectControl.Core.dll
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl.Core\obj\Debug\netcoreapp3.1\ProjectControl.Core.pdb
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl.Core\bin\Debug\netcoreapp3.1\ProjectControl.Core.deps.json
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl.Core\bin\Debug\netcoreapp3.1\ProjectControl.Core.dll
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl.Core\bin\Debug\netcoreapp3.1\ProjectControl.Core.pdb
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl.Core\obj\Debug\netcoreapp3.1\ProjectControl.Core.csprojAssemblyReference.cache
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl.Core\obj\Debug\netcoreapp3.1\ProjectControl.Core.AssemblyInfoInputs.cache
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl.Core\obj\Debug\netcoreapp3.1\ProjectControl.Core.AssemblyInfo.cs
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl.Core\obj\Debug\netcoreapp3.1\ProjectControl.Core.csproj.CoreCompileInputs.cache
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl.Core\obj\Debug\netcoreapp3.1\ProjectControl.Core.dll
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl.Core\obj\Debug\netcoreapp3.1\ProjectControl.Core.pdb

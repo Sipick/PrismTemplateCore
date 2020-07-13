@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <AssemblyName>ProjectControl</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Prism.DryIoc" Version="7.2.0.1422" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Modules\ContentWorkspace\ContentWorkspace.csproj" />
+    <ProjectReference Include="..\Modules\ProjectExplorer\ProjectExplorer.csproj" />
+    <ProjectReference Include="..\ProjectControl.Core\ProjectControl.Core.csproj" />
+    <ProjectReference Include="..\Services\ProjectControl.Services.Interfaces\ProjectControl.Services.Interfaces.csproj" />
+    <ProjectReference Include="..\Services\ProjectControl.Services\ProjectControl.Services.csproj" />
+  </ItemGroup>
+</Project>

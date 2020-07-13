@@ -1,0 +1,37 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "ProjectControl.Services/1.0.0": {
+        "dependencies": {
+          "ProjectControl.Services.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "ProjectControl.Services.dll": {}
+        }
+      },
+      "ProjectControl.Services.Interfaces/1.0.0": {
+        "runtime": {
+          "ProjectControl.Services.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjectControl.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjectControl.Services.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cERgzFGNXA9jtJgTZHnwG5SKWNt9qN929hiIVrSDhyvRHgmCK+JDbxNCkYUuSVS0EIA2zNZawFe8zz6iA4QCiA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\New folder (2)\\PrismTemplateCore\\ProjectControl\\Modules\\ProjectExplorer\\ProjectExplorer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ruben\\.nuget\\packages\\commonservicelocator\\2.0.4\\commonservicelocator.2.0.4.nupkg.sha512",
+    "C:\\Users\\Ruben\\.nuget\\packages\\prism.core\\7.2.0.1422\\prism.core.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\Ruben\\.nuget\\packages\\prism.wpf\\7.2.0.1422\\prism.wpf.7.2.0.1422.nupkg.sha512"
+  ],
+  "logs": []
+}

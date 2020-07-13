@@ -1,0 +1,261 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\New folder (2)\\PrismTemplateCore\\ProjectControl\\Modules\\ContentWorkspace\\ContentWorkspace.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\New folder (2)\\PrismTemplateCore\\ProjectControl\\Modules\\ContentWorkspace\\ContentWorkspace.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\New folder (2)\\PrismTemplateCore\\ProjectControl\\Modules\\ContentWorkspace\\ContentWorkspace.csproj",
+        "projectName": "ContentWorkspace",
+        "projectPath": "D:\\Projects\\New folder (2)\\PrismTemplateCore\\ProjectControl\\Modules\\ContentWorkspace\\ContentWorkspace.csproj",
+        "packagesPath": "C:\\Users\\Ruben\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\New folder (2)\\PrismTemplateCore\\ProjectControl\\Modules\\ContentWorkspace\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Projects\\New folder (2)\\PrismTemplateCore\\ProjectControl\\ProjectControl.Core\\ProjectControl.Core.csproj": {
+                "projectPath": "D:\\Projects\\New folder (2)\\PrismTemplateCore\\ProjectControl\\ProjectControl.Core\\ProjectControl.Core.csproj"
+              },
+              "D:\\Projects\\New folder (2)\\PrismTemplateCore\\ProjectControl\\Services\\ProjectControl.Services\\ProjectControl.Services.csproj": {
+                "projectPath": "D:\\Projects\\New folder (2)\\PrismTemplateCore\\ProjectControl\\Services\\ProjectControl.Services\\ProjectControl.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[7.2.0.1422, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\New folder (2)\\PrismTemplateCore\\ProjectControl\\ProjectControl.Core\\ProjectControl.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\New folder (2)\\PrismTemplateCore\\ProjectControl\\ProjectControl.Core\\ProjectControl.Core.csproj",
+        "projectName": "ProjectControl.Core",
+        "projectPath": "D:\\Projects\\New folder (2)\\PrismTemplateCore\\ProjectControl\\ProjectControl.Core\\ProjectControl.Core.csproj",
+        "packagesPath": "C:\\Users\\Ruben\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\New folder (2)\\PrismTemplateCore\\ProjectControl\\ProjectControl.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[7.2.0.1422, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\New folder (2)\\PrismTemplateCore\\ProjectControl\\Services\\ProjectControl.Services.Interfaces\\ProjectControl.Services.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\New folder (2)\\PrismTemplateCore\\ProjectControl\\Services\\ProjectControl.Services.Interfaces\\ProjectControl.Services.Interfaces.csproj",
+        "projectName": "ProjectControl.Services.Interfaces",
+        "projectPath": "D:\\Projects\\New folder (2)\\PrismTemplateCore\\ProjectControl\\Services\\ProjectControl.Services.Interfaces\\ProjectControl.Services.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Ruben\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\New folder (2)\\PrismTemplateCore\\ProjectControl\\Services\\ProjectControl.Services.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\New folder (2)\\PrismTemplateCore\\ProjectControl\\Services\\ProjectControl.Services\\ProjectControl.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\New folder (2)\\PrismTemplateCore\\ProjectControl\\Services\\ProjectControl.Services\\ProjectControl.Services.csproj",
+        "projectName": "ProjectControl.Services",
+        "projectPath": "D:\\Projects\\New folder (2)\\PrismTemplateCore\\ProjectControl\\Services\\ProjectControl.Services\\ProjectControl.Services.csproj",
+        "packagesPath": "C:\\Users\\Ruben\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\New folder (2)\\PrismTemplateCore\\ProjectControl\\Services\\ProjectControl.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "D:\\Projects\\New folder (2)\\PrismTemplateCore\\ProjectControl\\Services\\ProjectControl.Services.Interfaces\\ProjectControl.Services.Interfaces.csproj": {
+                "projectPath": "D:\\Projects\\New folder (2)\\PrismTemplateCore\\ProjectControl\\Services\\ProjectControl.Services.Interfaces\\ProjectControl.Services.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

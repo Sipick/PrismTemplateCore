@@ -1,0 +1,63 @@
+D:\Projects\ProjectControl\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ContentWorkspace.deps.json
+D:\Projects\ProjectControl\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ContentWorkspace.dll
+D:\Projects\ProjectControl\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ContentWorkspace.pdb
+D:\Projects\ProjectControl\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ProjectControl.Core.dll
+D:\Projects\ProjectControl\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ProjectControl.Services.dll
+D:\Projects\ProjectControl\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ProjectControl.Services.Interfaces.dll
+D:\Projects\ProjectControl\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ProjectControl.Core.pdb
+D:\Projects\ProjectControl\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ProjectControl.Services.pdb
+D:\Projects\ProjectControl\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ProjectControl.Services.Interfaces.pdb
+D:\Projects\ProjectControl\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace.csprojAssemblyReference.cache
+D:\Projects\ProjectControl\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\Views\ContentWorkspaceView.g.cs
+D:\Projects\ProjectControl\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace_MarkupCompile.cache
+D:\Projects\ProjectControl\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace_MarkupCompile.lref
+D:\Projects\ProjectControl\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\Views\ContentWorkspaceView.baml
+D:\Projects\ProjectControl\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace.g.resources
+D:\Projects\ProjectControl\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace.AssemblyInfoInputs.cache
+D:\Projects\ProjectControl\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace.AssemblyInfo.cs
+D:\Projects\ProjectControl\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace.csproj.CoreCompileInputs.cache
+D:\Projects\ProjectControl\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace.csproj.CopyComplete
+D:\Projects\ProjectControl\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace.dll
+D:\Projects\ProjectControl\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace.pdb
+D:\New folder (2)\ProjectControl\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ContentWorkspace.deps.json
+D:\New folder (2)\ProjectControl\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ContentWorkspace.dll
+D:\New folder (2)\ProjectControl\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ContentWorkspace.pdb
+D:\New folder (2)\ProjectControl\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ProjectControl.Core.dll
+D:\New folder (2)\ProjectControl\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ProjectControl.Services.dll
+D:\New folder (2)\ProjectControl\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ProjectControl.Services.Interfaces.dll
+D:\New folder (2)\ProjectControl\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ProjectControl.Core.pdb
+D:\New folder (2)\ProjectControl\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ProjectControl.Services.pdb
+D:\New folder (2)\ProjectControl\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ProjectControl.Services.Interfaces.pdb
+D:\New folder (2)\ProjectControl\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace.csprojAssemblyReference.cache
+D:\New folder (2)\ProjectControl\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\Views\ContentWorkspaceView.g.cs
+D:\New folder (2)\ProjectControl\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace_MarkupCompile.cache
+D:\New folder (2)\ProjectControl\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace_MarkupCompile.lref
+D:\New folder (2)\ProjectControl\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\Views\ContentWorkspaceView.baml
+D:\New folder (2)\ProjectControl\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace.g.resources
+D:\New folder (2)\ProjectControl\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace.AssemblyInfoInputs.cache
+D:\New folder (2)\ProjectControl\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace.AssemblyInfo.cs
+D:\New folder (2)\ProjectControl\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace.csproj.CoreCompileInputs.cache
+D:\New folder (2)\ProjectControl\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace.csproj.CopyComplete
+D:\New folder (2)\ProjectControl\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace.dll
+D:\New folder (2)\ProjectControl\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace.pdb
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ContentWorkspace.deps.json
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ContentWorkspace.dll
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ContentWorkspace.pdb
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ProjectControl.Core.dll
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ProjectControl.Services.dll
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ProjectControl.Services.Interfaces.dll
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ProjectControl.Core.pdb
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ProjectControl.Services.pdb
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Modules\ContentWorkspace\bin\Debug\netcoreapp3.1\ProjectControl.Services.Interfaces.pdb
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace.csprojAssemblyReference.cache
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\Views\ContentWorkspaceView.g.cs
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace_MarkupCompile.cache
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace_MarkupCompile.lref
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\Views\ContentWorkspaceView.baml
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace.g.resources
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace.AssemblyInfoInputs.cache
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace.AssemblyInfo.cs
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace.csproj.CoreCompileInputs.cache
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace.csproj.CopyComplete
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace.dll
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Modules\ContentWorkspace\obj\Debug\netcoreapp3.1\ContentWorkspace.pdb

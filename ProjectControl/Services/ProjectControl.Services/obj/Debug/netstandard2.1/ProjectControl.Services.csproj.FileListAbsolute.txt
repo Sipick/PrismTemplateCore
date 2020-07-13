@@ -1,0 +1,36 @@
+D:\Projects\ProjectControl\ProjectControl\Services\ProjectControl.Services\bin\Debug\netstandard2.1\ProjectControl.Services.deps.json
+D:\Projects\ProjectControl\ProjectControl\Services\ProjectControl.Services\bin\Debug\netstandard2.1\ProjectControl.Services.dll
+D:\Projects\ProjectControl\ProjectControl\Services\ProjectControl.Services\bin\Debug\netstandard2.1\ProjectControl.Services.pdb
+D:\Projects\ProjectControl\ProjectControl\Services\ProjectControl.Services\bin\Debug\netstandard2.1\ProjectControl.Services.Interfaces.dll
+D:\Projects\ProjectControl\ProjectControl\Services\ProjectControl.Services\bin\Debug\netstandard2.1\ProjectControl.Services.Interfaces.pdb
+D:\Projects\ProjectControl\ProjectControl\Services\ProjectControl.Services\obj\Debug\netstandard2.1\ProjectControl.Services.csprojAssemblyReference.cache
+D:\Projects\ProjectControl\ProjectControl\Services\ProjectControl.Services\obj\Debug\netstandard2.1\ProjectControl.Services.AssemblyInfoInputs.cache
+D:\Projects\ProjectControl\ProjectControl\Services\ProjectControl.Services\obj\Debug\netstandard2.1\ProjectControl.Services.AssemblyInfo.cs
+D:\Projects\ProjectControl\ProjectControl\Services\ProjectControl.Services\obj\Debug\netstandard2.1\ProjectControl.Services.csproj.CoreCompileInputs.cache
+D:\Projects\ProjectControl\ProjectControl\Services\ProjectControl.Services\obj\Debug\netstandard2.1\ProjectControl.Services.csproj.CopyComplete
+D:\Projects\ProjectControl\ProjectControl\Services\ProjectControl.Services\obj\Debug\netstandard2.1\ProjectControl.Services.dll
+D:\Projects\ProjectControl\ProjectControl\Services\ProjectControl.Services\obj\Debug\netstandard2.1\ProjectControl.Services.pdb
+D:\New folder (2)\ProjectControl\ProjectControl\Services\ProjectControl.Services\bin\Debug\netstandard2.1\ProjectControl.Services.deps.json
+D:\New folder (2)\ProjectControl\ProjectControl\Services\ProjectControl.Services\bin\Debug\netstandard2.1\ProjectControl.Services.dll
+D:\New folder (2)\ProjectControl\ProjectControl\Services\ProjectControl.Services\bin\Debug\netstandard2.1\ProjectControl.Services.pdb
+D:\New folder (2)\ProjectControl\ProjectControl\Services\ProjectControl.Services\bin\Debug\netstandard2.1\ProjectControl.Services.Interfaces.dll
+D:\New folder (2)\ProjectControl\ProjectControl\Services\ProjectControl.Services\bin\Debug\netstandard2.1\ProjectControl.Services.Interfaces.pdb
+D:\New folder (2)\ProjectControl\ProjectControl\Services\ProjectControl.Services\obj\Debug\netstandard2.1\ProjectControl.Services.csprojAssemblyReference.cache
+D:\New folder (2)\ProjectControl\ProjectControl\Services\ProjectControl.Services\obj\Debug\netstandard2.1\ProjectControl.Services.AssemblyInfoInputs.cache
+D:\New folder (2)\ProjectControl\ProjectControl\Services\ProjectControl.Services\obj\Debug\netstandard2.1\ProjectControl.Services.AssemblyInfo.cs
+D:\New folder (2)\ProjectControl\ProjectControl\Services\ProjectControl.Services\obj\Debug\netstandard2.1\ProjectControl.Services.csproj.CoreCompileInputs.cache
+D:\New folder (2)\ProjectControl\ProjectControl\Services\ProjectControl.Services\obj\Debug\netstandard2.1\ProjectControl.Services.csproj.CopyComplete
+D:\New folder (2)\ProjectControl\ProjectControl\Services\ProjectControl.Services\obj\Debug\netstandard2.1\ProjectControl.Services.dll
+D:\New folder (2)\ProjectControl\ProjectControl\Services\ProjectControl.Services\obj\Debug\netstandard2.1\ProjectControl.Services.pdb
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Services\ProjectControl.Services\bin\Debug\netstandard2.1\ProjectControl.Services.deps.json
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Services\ProjectControl.Services\bin\Debug\netstandard2.1\ProjectControl.Services.dll
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Services\ProjectControl.Services\bin\Debug\netstandard2.1\ProjectControl.Services.pdb
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Services\ProjectControl.Services\bin\Debug\netstandard2.1\ProjectControl.Services.Interfaces.dll
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Services\ProjectControl.Services\bin\Debug\netstandard2.1\ProjectControl.Services.Interfaces.pdb
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Services\ProjectControl.Services\obj\Debug\netstandard2.1\ProjectControl.Services.csprojAssemblyReference.cache
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Services\ProjectControl.Services\obj\Debug\netstandard2.1\ProjectControl.Services.AssemblyInfoInputs.cache
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Services\ProjectControl.Services\obj\Debug\netstandard2.1\ProjectControl.Services.AssemblyInfo.cs
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Services\ProjectControl.Services\obj\Debug\netstandard2.1\ProjectControl.Services.csproj.CoreCompileInputs.cache
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Services\ProjectControl.Services\obj\Debug\netstandard2.1\ProjectControl.Services.csproj.CopyComplete
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Services\ProjectControl.Services\obj\Debug\netstandard2.1\ProjectControl.Services.dll
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\Services\ProjectControl.Services\obj\Debug\netstandard2.1\ProjectControl.Services.pdb

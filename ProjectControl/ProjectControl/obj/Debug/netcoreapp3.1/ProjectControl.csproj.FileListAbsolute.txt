@@ -1,0 +1,105 @@
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.exe
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.deps.json
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.runtimeconfig.json
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.runtimeconfig.dev.json
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.dll
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.pdb
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\CommonServiceLocator.dll
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\DryIoc.dll
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\Prism.dll
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\Prism.DryIoc.Wpf.dll
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\Prism.Wpf.dll
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\System.Windows.Interactivity.dll
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.Core.dll
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.Services.dll
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.Services.Interfaces.dll
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.Core.pdb
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.Services.Interfaces.pdb
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.Services.pdb
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.csprojAssemblyReference.cache
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl_MarkupCompile.cache
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.g.resources
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.AssemblyInfoInputs.cache
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.AssemblyInfo.cs
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.csproj.CoreCompileInputs.cache
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.csproj.CopyComplete
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.dll
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.pdb
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.genruntimeconfig.cache
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\Views\ShellWindow.baml
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\Views\ShellWindow.g.cs
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectExplorer.dll
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectExplorer.pdb
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ContentWorkspace.dll
+D:\Projects\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ContentWorkspace.pdb
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.exe
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.deps.json
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.runtimeconfig.json
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.runtimeconfig.dev.json
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.dll
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.pdb
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\CommonServiceLocator.dll
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\DryIoc.dll
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\Prism.dll
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\Prism.DryIoc.Wpf.dll
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\Prism.Wpf.dll
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\System.Windows.Interactivity.dll
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ContentWorkspace.dll
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.Core.dll
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.Services.dll
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.Services.Interfaces.dll
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectExplorer.dll
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ContentWorkspace.pdb
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectExplorer.pdb
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.Core.pdb
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.Services.Interfaces.pdb
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.Services.pdb
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.csprojAssemblyReference.cache
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\Views\ShellWindow.baml
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\Views\ShellWindow.g.cs
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\App.g.cs
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl_MarkupCompile.cache
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.g.resources
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.AssemblyInfoInputs.cache
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.AssemblyInfo.cs
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.csproj.CoreCompileInputs.cache
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.csproj.CopyComplete
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.dll
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.pdb
+D:\New folder (2)\ProjectControl\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.genruntimeconfig.cache
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.exe
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.deps.json
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.runtimeconfig.json
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.runtimeconfig.dev.json
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.dll
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.pdb
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\CommonServiceLocator.dll
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\DryIoc.dll
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\Prism.dll
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\Prism.DryIoc.Wpf.dll
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\Prism.Wpf.dll
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\System.Windows.Interactivity.dll
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ContentWorkspace.dll
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.Core.dll
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.Services.dll
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.Services.Interfaces.dll
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectExplorer.dll
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ContentWorkspace.pdb
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectExplorer.pdb
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.Core.pdb
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.Services.Interfaces.pdb
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\bin\Debug\netcoreapp3.1\ProjectControl.Services.pdb
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.csprojAssemblyReference.cache
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\Views\ShellWindow.baml
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\Views\ShellWindow.g.cs
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl_MarkupCompile.cache
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.g.resources
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.AssemblyInfoInputs.cache
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.AssemblyInfo.cs
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.csproj.CoreCompileInputs.cache
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.csproj.CopyComplete
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.dll
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.pdb
+D:\Projects\New folder (2)\PrismTemplateCore\ProjectControl\ProjectControl\obj\Debug\netcoreapp3.1\ProjectControl.genruntimeconfig.cache

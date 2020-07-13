@@ -1,0 +1,67 @@
+﻿<Window x:Class="ProjectControl.Views.ShellWindow"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:prism="http://prismlibrary.com/"             
+             prism:ViewModelLocator.AutoWireViewModel="True">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition 
+                x:Name="RibbonRow" 
+                Height="Auto"/>
+            <RowDefinition 
+                x:Name="AppRow" 
+                Height="*"/>
+            <RowDefinition 
+                x:Name="StatusBarRow" 
+                Height="0.05*"/>
+        </Grid.RowDefinitions>
+
+        <Ribbon
+            Grid.Row="0"  
+            Background="Transparent"  
+            prism:RegionManager.RegionName="RibbonTabRegion">
+
+            <Ribbon.ApplicationMenu>
+                <RibbonApplicationMenu
+                    Visibility="Collapsed">
+                </RibbonApplicationMenu>
+            </Ribbon.ApplicationMenu>
+        </Ribbon>
+
+        <Grid 
+            x:Name="ClientArea" 
+            Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition 
+                    x:Name="NavigationColumn" 
+                    Width="0.200*" />
+                <ColumnDefinition 
+                    x:Name="WorkspaceColumn" 
+                    Width="0.600*" />
+            </Grid.ColumnDefinitions>
+            <GridSplitter 
+                HorizontalAlignment="Left" 
+                Width="5" 
+                Grid.Column="1"/>
+            <ContentControl
+                Grid.Row="0"
+                Grid.Column="0"
+                x:Name="ProjectExplorerRegion"
+                prism:RegionManager.RegionName="ProjectExplorerRegion" />
+
+            <ContentControl
+                Grid.Row="0"
+                Grid.Column="1"
+                x:Name="DisplayContentRegion"
+                prism:RegionManager.RegionName="ContentRegion" />
+        </Grid>
+
+        <StatusBar
+            Grid.Row="2"
+            x:Name="StatusBar">
+            <StatusBarItem
+                x:Name="StatusBarProjectExplorer"
+                prism:RegionManager.RegionName="StatusBarRegion"/>
+        </StatusBar>
+    </Grid>
+</Window>
